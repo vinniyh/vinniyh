@@ -2,6 +2,7 @@
  
 - 🔭 Hoje Trabalho com front-end
 - 🌱 Estudando TypeScript
+-    Banco de dados Mysql
 - 📫 Contate-me no email: viniciusprogamer01@gmail.com
 
 ##
